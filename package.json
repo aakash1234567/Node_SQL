@@ -1,0 +1,23 @@
+{
+  "name": "node_sql",
+  "version": "1.0.0",
+  "description": "Example Implementation of connection between SQL and Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aakash1234567/Node_SQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aakash1234567/Node_SQL/issues"
+  },
+  "homepage": "https://github.com/aakash1234567/Node_SQL#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "tedious": "^15.1.3"
+  }
+}
